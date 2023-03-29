@@ -1,0 +1,16 @@
+{
+    "people":[
+        {
+            "id":1,
+            "name":"nisa"
+        },
+        {
+            "id":2,
+            "name":"erguven"
+        },
+        {
+            "id":2,
+            "name":"nisanur erguven"
+        }
+    ]
+}
